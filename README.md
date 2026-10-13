@@ -28,7 +28,7 @@ Mikrotik (REST API) --> monitor.py --> Telegram
 
 ## 🚀 Instalasi
 ```bash
-git clone https://github.com/USERNAME/rtrw-net-monitor.git
+git clone https://github.com/GiexId/Route-Monitoring.git
 cd rtrw-net-monitor
 cp .env.example .env    # isi konfigurasi
 docker compose up -d --build
